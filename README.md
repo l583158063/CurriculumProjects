@@ -1,3 +1,3 @@
-# CurriculumProjects
-07/2016-02/2019 Curriculum design projects
-StudentAccess 开发环境code blocks，C语言
+# StudentAccess
+12/2016 Curriculum design projects
+开发环境code blocks，C语言
