@@ -1,0 +1,118 @@
+﻿生成启动时间为 2016/12/25 0:16:20。
+     1>项目“D:\CPrograms\StudentAccess\StudentAccess\StudentAccess\StudentAccess.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt StudentAccess.cpp
+         StudentAccess.cpp
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(74): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(121): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(205): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(207): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(310): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(310): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(321): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(321): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(351): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(351): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(241): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(246): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(314): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(341): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(360): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(470): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(470): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(494): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(494): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(570): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(570): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(386): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(399): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(405): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(486): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(502): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(515): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(521): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(556): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+         d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(556): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+         d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(556): note: the missing variadic argument 1 is required by format string '%s'
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(557): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(562): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(578): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(587): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(593): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(599): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(605): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(637): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(736): warning C4308: 负整型常量转换为无符号类型
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(736): warning C4307: “*”: 整型常量溢出
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(667): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(673): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(677): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(681): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(685): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(690): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(694): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(698): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(702): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(706): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(710): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(732): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(749): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(762): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(790): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\conio.h(452): note: 参见“getch”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(814): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(835): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(868): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+     1>d:\cprograms\studentaccess\studentaccess\studentaccess\studentaccess.cpp(942): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+       Link:
+         D:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CPrograms\StudentAccess\StudentAccess\Debug\StudentAccess.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\CPrograms\StudentAccess\StudentAccess\Debug\StudentAccess.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CPrograms\StudentAccess\StudentAccess\Debug\StudentAccess.lib" /MACHINE:X86 Debug\StudentAccess.obj
+         StudentAccess.vcxproj -> D:\CPrograms\StudentAccess\StudentAccess\Debug\StudentAccess.exe
+     1>已完成生成项目“D:\CPrograms\StudentAccess\StudentAccess\StudentAccess\StudentAccess.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.35
